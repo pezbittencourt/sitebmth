@@ -1,0 +1,71 @@
+.title {
+   color: rgb(0, 0, 0);
+   text-align: center;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   margin: 10px;
+}
+
+body {
+   background-color:white;
+   text-align: center;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   margin: 0;
+   padding: 0;
+   /*usando em todos */
+}
+#links a {
+  
+   color: rgb(0, 0, 0);
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: larger;
+/* sendo usado no index*/
+}
+
+#albuns a {
+   text-align: center;
+   color: rgb(0, 0, 0);
+   text-decoration: dashed;
+   /* sendo usado na discografia*/
+}
+
+h3 {
+   font-size: larger;
+   text-align: left;
+   margin: 20px;
+/* em todos os h3 necessários*/
+
+}
+
+h3 a { 
+   color: black;
+   text-align: center;
+   text-decoration: dashed;
+/* em todos os titulos que posssuem um link, no caso está sendo usado
+na discografia para linkar os albuns*/
+
+}
+
+.shadow {
+   box-shadow: 10px 10px 20px rgb(255, 166, 0);
+/* usado nas imagens do index e integrantes */
+}
+
+
+p {
+   text-align: left;
+   margin: 20px;
+/* em todos os parágrafos necessários */
+}
+
+#linksalbuns a{
+   text-align: center;
+}
+
+
+h4 a{ 
+   text-align: center;
+   color: black;
+}
+
+
+

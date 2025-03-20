@@ -1,0 +1,2 @@
+Este é um projeto de autoria pessoal de Pedro Zeferino Bittencourt. Tal projeto foi solicitado para a matéria de Programação Web no primeiro semestre de Ciência da Computação na Universidade Senac. 
+O objetivo do tema escolhido para o projeto é contar um pouco mais aprofundamente sobre a banda Bring Me The Horizon, seus integrantes, álbuns e, além disso, deixar explicita a sua relevância para o cenário do rock/metal na atualidade.  
