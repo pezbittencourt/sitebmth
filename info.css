@@ -17,11 +17,17 @@ body {
     /* em todos os parágrafos necessários */}
 
     h4{ 
-        text-align: left;
+        text-align: center;
         font-weight: bold;
         font-size: larger;
         margin: 20px;
         font-family: 'Times New Roman', Times, serif;
 
     }
-    
+
+    footer {
+        background-color: white;
+        color: black;
+        text-align: center;
+     padding: -5px;
+     }

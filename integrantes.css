@@ -1,3 +1,11 @@
+body{
+   background-image: url('https://preview.redd.it/3zud92017o961.png?auto=webp&s=4bb52104efbabc1d20054716b6b55b867698eed4');
+   background-size:cover; /* Ajusta a imagem para cobrir todo o fundo */
+
+   background-position: center;
+}
+
+
 p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: left;
@@ -40,3 +48,11 @@ h1 {
         margin: auto;
         display: block;
      }
+
+     footer {
+      background-color: white;
+      color: black;
+      text-align: center;
+      padding: -10px;
+   margin: -8px
+   }
