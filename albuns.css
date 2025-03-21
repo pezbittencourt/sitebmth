@@ -1,0 +1,25 @@
+body {
+    background-image: url('https://preview.redd.it/3zud92017o961.png?auto=webp&s=4bb52104efbabc1d20054716b6b55b867698eed4');
+    background-size: cover;
+    /* Ajusta a imagem para cobrir todo o fundo */
+ 
+    background-position: center;
+    /* Centraliza a imagem no fundo */
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+h4 a { 
+    color: white;
+    text-decoration: underline;
+    text-decoration-color:rgb(255, 166, 0); ;
+}
+
+footer {
+    background-color: white;
+    color: black;
+    text-align: center;
+ padding: -5px;
+ }

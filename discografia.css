@@ -1,44 +1,63 @@
-title { 
-   
+.title { 
+    color:white;
+    text-decoration: underline; 
 }
 
-iframe{ 
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
+
 
 body {
-    background-color: rgb(0, 0, 0);
+    background-image: url('https://preview.redd.it/3zud92017o961.png?auto=webp&s=4bb52104efbabc1d20054716b6b55b867698eed4');
+    background-size: cover;
+    /* Ajusta a imagem para cobrir todo o fundo */
+ 
+    background-position: center;
+    /* Centraliza a imagem no fundo */
     text-align: center;
-
+    margin: 0;
+    padding: 0;
+    color: black;
     /*usando em todos */
-}
+ }
 
-#albuns {
+ h4 a {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    border: 3px solid rgb(0, 0, 0);
-    /* Define a borda do quadrado */
-    padding: 50px;
-    /* Adiciona um espaço interno */
-    width: 457px;
-    /* Define a largura da div */
-    height: auto;
-    /* Define a altura da div */
-    margin: 20px auto;
-    /* Centraliza a div horizontalmente */
-    background-color: white;
-    /* Define a cor de fundo */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    /* Adiciona uma sombra para dar efeito de janela */
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    text-decoration-color: rgb(255, 166, 0);
+ }
 
-}
-
-.albuns a {
-    font-size: x-large;
-    text-align: center;
-    color: rgb(0, 0, 0);
+ .sidebar {
+    width: 200px;
+    height: 72vh;
+    padding: 20px;
+ 
+ }
+ 
+ .sidebar #links {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+ }
+ 
+ .sidebar #links a {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
     text-decoration: none;
-
-    /* sendo usado na discografia*/
-
-}
+    color: aliceblue;
+ }
+ 
+ .sidebar #links a:hover {
+    text-decoration: underline;
+    color: rgb(172, 182, 191);
+ }
+ 
+ footer {
+    background-color: white;
+    color: black;
+    text-align: center;
+ padding: -5px;
+ }
+ 
+ 
