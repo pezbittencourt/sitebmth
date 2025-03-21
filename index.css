@@ -75,14 +75,6 @@ h4 a {
    text-align: center;
 }
 
-#paragraph {
-   text-align: left;
-   font-size: larger;
-   margin: 20px;
-   font-family: 'Times New Roman', Times, serif;
-}
-
-
 .sidebar {
    width: 200px;
    height: 72vh;

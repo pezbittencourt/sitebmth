@@ -1,3 +1,9 @@
+h1{ 
+    color:white;
+    text-decoration: underline; 
+}
+
+
 body {
     background-image: url('https://preview.redd.it/3zud92017o961.png?auto=webp&s=4bb52104efbabc1d20054716b6b55b867698eed4');
     background-size:cover; /* Ajusta a imagem para cobrir todo o fundo */
@@ -8,6 +14,13 @@ body {
     padding: 0;
  color: black;
     /*usando em todos */
+ }
+
+ #paragraph {
+    text-align: left;
+    font-size: larger;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
  }
 
  p {
