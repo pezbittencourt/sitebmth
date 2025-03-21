@@ -1,0 +1,47 @@
+header { 
+background-color: rgb(255, 255, 255);
+text-align: center;
+;
+
+}
+
+iframe{ 
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+body {
+    background-color: rgba(175, 225, 238, 0.575);
+    text-align: center;
+
+    /*usando em todos */
+}
+
+#albuns {
+    text-align: center;
+    border: 3px solid rgb(0, 0, 0);
+    /* Define a borda do quadrado */
+    padding: 50px;
+    /* Adiciona um espaço interno */
+    width: 457px;
+    /* Define a largura da div */
+    height: auto;
+    /* Define a altura da div */
+    margin: 20px auto;
+    /* Centraliza a div horizontalmente */
+    background-color: white;
+    /* Define a cor de fundo */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* Adiciona uma sombra para dar efeito de janela */
+
+}
+
+.albuns a {
+    font-size: x-large;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+
+    /* sendo usado na discografia*/
+
+}
